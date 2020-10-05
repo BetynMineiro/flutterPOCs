@@ -22,10 +22,11 @@ class LoginPage extends StatelessWidget {
                     color: Colors.white,
                     boxShadow: [
                       new BoxShadow(
-                          color: Colors.black12,
-                          offset: new Offset(1, 2.0),
-                          blurRadius: 5,
-                          spreadRadius: 1)
+                        color: Colors.black12,
+                        offset: new Offset(1, 2.0),
+                        blurRadius: 5,
+                        spreadRadius: 1,
+                      ),
                     ],
                   ),
                   child: Padding(
